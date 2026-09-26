@@ -1,0 +1,8 @@
+{
+  "appId": "online.vetdirect.webaudit",
+  "appName": "VETDirect WebAudit Tools",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
